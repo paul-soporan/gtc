@@ -1,0 +1,6 @@
+[package]
+name = "exercises"
+edition = "2024"
+
+[dependencies]
+gtc = { path = "../gtc" }
